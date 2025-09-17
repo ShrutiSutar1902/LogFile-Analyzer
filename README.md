@@ -1,4 +1,4 @@
-📝 Log File Analyzer (Python)
+📝 Log File Analyzer (Python)  
 📌 Project Overview
 
 The Log File Analyzer is a Python tool that reads system or application log files, extracts useful details like timestamp, log level (ERROR, WARNING, INFO), and message, and then generates a clear summary report directly in the terminal.
